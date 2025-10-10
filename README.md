@@ -1,4 +1,4 @@
- <h2 align="left">Hi 👋! My name is N3rdhunter ....</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.bing.com/th/id/OGC.75deddca4b967a2dc56b39095696609a?o=7&cb=12&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fe4%2ff9%2fd4%2fe4f9d48f65319e3a107e7f23410c0d83.gif&ehk=G%2bxIxpCHqLIgyErRp7EtN7eWj146jkeCgcoJ9cYx1mI%3d"  />
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://avatars.githubusercontent.com/u/173009552?v=4" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
